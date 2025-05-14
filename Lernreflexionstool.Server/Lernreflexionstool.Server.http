@@ -1,0 +1,6 @@
+@Lernreflexionstool.Server_HostAddress = http://localhost:5139
+
+GET {{Lernreflexionstool.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
